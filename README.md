@@ -1,4 +1,5 @@
 # JDCloud_AX1800_Pro
+拷贝config.txt到openwrt目录下，修改名称为.config  
 winscp进入etc/opkg.conf文件  
 dest root /  
 dest ram /tmp  
